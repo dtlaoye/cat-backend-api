@@ -1,7 +1,5 @@
 # **🐱 Cat Pics API - Backend API Project**
 
-## Submission by David Olaoye
-
 ## **📌 Overview**
 
 The **Cat Pics API** allows users to **upload, manage, and retrieve cat pictures**.  
