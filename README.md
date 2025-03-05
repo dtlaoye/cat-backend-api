@@ -30,7 +30,7 @@ This API supports **user authentication (JWT)** and **secure file uploads using 
 ### **1️⃣ Clone the Repository**
 
 ```sh
-git clone https://github.com/your-repo/cat-pics-api.git
+git clone https://github.com/dtlaoye/cat-pics-api.git
 cd cat-pics-api
 ```
 
